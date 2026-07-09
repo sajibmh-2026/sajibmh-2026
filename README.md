@@ -117,7 +117,8 @@ philosophy:  "Write code that's readable, not just runnable."
 &layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&border_color=30363D" height="170px"/>
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ana-yet&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&stroke=30363D" width="65%"/>
+<img src="https://streak-stats.demolab.com?user=sajibmh-2026
+&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&stroke=30363D" width="65%"/>
 
 </div>
 
@@ -127,7 +128,8 @@ philosophy:  "Write code that's readable, not just runnable."
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
-<img src="https://github-profile-trophy-jet-zeta.vercel.app/?username=ana-yet&theme=darkhub&no-frame=true&no-bg=true" width="100%"/>
+<img src="https://github-profile-trophy-jet-zeta.vercel.app/?username=sajibmh-2026
+&theme=darkhub&no-frame=true&no-bg=true" width="100%"/>
 </div>
 
 <br/>
