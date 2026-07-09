@@ -19,7 +19,7 @@
 <img align="right" width="300" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif"/>
 
 ```yaml
-name: "Md Sojib"
+name: "Mh Sajib"
 
 role: "Full Stack Developer"
 
@@ -131,7 +131,6 @@ philosophy:
 
 | Technology | Status |
 |------------|--------|
-| Next.js | 🟢 Learning |
 | TypeScript | 🟢 Learning |
 | PostgreSQL | 🟢 Learning |
 | Prisma ORM | 🟡 Upcoming |
