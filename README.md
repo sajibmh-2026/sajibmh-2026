@@ -1,159 +1,420 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=1&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=220&section=header&text=MH%20SAJIB&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20Engineer&descAlignY=62"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=MH+SAJIB;Full+Stack+Developer;MERN+%26+PERN+Stack+Engineer;Building+the+web%2C+one+commit+at+a+time." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Md+Sojib;Full+Stack+Developer;MERN+Stack+Engineer;Next.js+Developer;Always+Learning+New+Things"/>
 
-<br/>
+<br>
 
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-%2358A6FF?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Dev-%2358A6FF?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://komarev.com/ghpvc/?username=ana-yet&style=for-the-badge&color=58A6FF&labelColor=0d1117&label=VISITORS"/>
+<img src="https://img.shields.io/badge/Open%20To-Work-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-58A6FF?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sajibmh-2026&style=for-the-badge&color=58A6FF"/>
 
 </div>
 
-<br/>
+---
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"/>&nbsp;**About Me**
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+# 👋 About Me
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif"/>
 
 ```yaml
-# ana-yet.config.yaml
+name: "Md Sojib"
 
-name:        "MH Sajib"
-role:        "Full Stack Developer"
-stack:       ["MERN", "PERN", "Next.js"]
-email:       "sojibmh862@gmail.com"
-portfolio:   "https:.vercel.app"
+role: "Full Stack Developer"
 
-currently:
-  building:  "Full-stack apps with React, Next.js, Node.js, MongoDB & PostgreSQL"
-  learning:  "API design · Auth flows · SSR · Scalable backend architecture"
-  open_to:   "MERN/PERN/Next.js collabs & beginner-friendly open-source projects"
+location: "Bangladesh"
 
-goal: >
-  Grow into a reliable full-stack engineer
-  with production-level skills.
+email: "sojibmh862@gmail.com"
 
-philosophy:  "Write code that's readable, not just runnable."
+stack:
+  - React
+  - Next.js
+  - Node.js
+  - Express.js
+  - MongoDB
+  - PostgreSQL
+
+currently_learning:
+  - TypeScript
+  - Next.js
+  - PostgreSQL
+
+goal:
+  Become a Professional Full Stack Engineer
+
+philosophy:
+  "Write clean code. Learn every day."
 ```
+
+### 🌐 Connect with me
+
+<p>
+
+<a href="https://github.com/sajibmh-2026">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sajibmh">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sojibmh862@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<table>
+
+<tr>
+
+<td valign="top" width="33%">
+
+## 🎨 Frontend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite"/>
+
+</p>
+
+</td>
+
+<td valign="top" width="33%">
+
+## ⚙️ Backend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase"/>
+
+</p>
+
+</td>
+
+<td valign="top" width="33%">
+
+## 🛠 Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify"/>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🚀 Technologies I Use
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,firebase,git,github,vscode,figma,postman,vercel"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+| Technology | Status |
+|------------|--------|
+| Next.js | 🟢 Learning |
+| TypeScript | 🟢 Learning |
+| PostgreSQL | 🟢 Learning |
+| Prisma ORM | 🟡 Upcoming |
+| Docker | 🟡 Upcoming |
+
+---
+
+# 🎯 What I Love
+
+- ⚛️ React
+- 🚀 Next.js
+- 🌐 Full Stack Development
+- 📱 Responsive UI
+- 🔥 REST API
+- 💾 MongoDB
+- 🐘 PostgreSQL
+- 🎨 Modern UI/UX
+- 📦 Clean Code
+- 💡 Problem Solving
+
+---
+
+# 📊 GitHub Analytics
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
 
-<a href="https://.vercel" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58A6FF&color=0d1117"/>
-</a>
-<a href="www.linkedin.com/in/sajibmh" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
-</a>
-<a href="https://x.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter_/_X-0d1117?style=for-the-badge&logo=x&logoColor=58A6FF"/>
-</a>
-<a href="mailto:sojibmh862@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sajibmh-2026&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajibmh-2026&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
-<br/>
+<br>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
+<div align="center">
+
+<img width="75%" src="https://streak-stats.demolab.com?user=sajibmh-2026&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sajibmh-2026&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=sajibmh-2026&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+# 📌 Profile Summary
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajibmh-2026&theme=github_dark"/>
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajibmh-2026&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sajibmh-2026&theme=github_dark"/>
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sajibmh-2026&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sajibmh-2026&theme=github_dark&utcOffset=6"/>
+
+</div>
+
+---
+# 🚀 Featured Projects
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <table>
 <tr>
-<td valign="top" width="33%">
 
-**▸ Frontend**
+<td width="50%">
 
-![HTML](https://img.shields.io/badge/-HTML5-0d1117?style=flat-square&logo=HTML5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS3-0d1117?style=flat-square&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=TypeScript&logoColor=3178C6)
-![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=React&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-0d1117?style=flat-square&logo=Next.js&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-0d1117?style=flat-square&logo=Tailwind-CSS&logoColor=38BDF8)
+## 💡 IdeaVault
 
-</td>
-<td valign="top" width="33%">
+A Full Stack Startup Idea Sharing Platform where users can share, discover, and discuss innovative ideas.
 
-**▸ Backend & Database**
+### Tech Stack
+- Next.js
+- TypeScript
+- Node.js
+- Express.js
+- MongoDB
+- Firebase
+- Tailwind CSS
 
-![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=flat-square&logo=Node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/-Express-0d1117?style=flat-square&logo=Express&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=flat-square&logo=MongoDB&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=PostgreSQL&logoColor=4169E1)
-![REST API](https://img.shields.io/badge/-REST_API-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+🔗 **Live Demo:** https://idea-vault-ten-theta.vercel.app/
+
+📂 **GitHub:** https://github.com/sajibmh-2026/BA13-A09-IdeaVault-client
 
 </td>
-<td valign="top" width="33%">
 
-**▸ Tools & Platforms**
+<td width="50%">
 
-![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=Git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=GitHub&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/-Figma-0d1117?style=flat-square&logo=Figma&logoColor=F24E1E)
-![Vercel](https://img.shields.io/badge/-Vercel-0d1117?style=flat-square&logo=Vercel&logoColor=ffffff)
-![Netlify](https://img.shields.io/badge/-Netlify-0d1117?style=flat-square&logo=Netlify&logoColor=00C7B7)
-![Postman](https://img.shields.io/badge/-Postman-0d1117?style=flat-square&logo=Postman&logoColor=FF6C37)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sajibmh-2026&repo=YOUR_IDEAVAULT_REPO&theme=github_dark&hide_border=true"/>
 
 </td>
+
 </tr>
 </table>
 
-<br/>
+---
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/>&nbsp;**GitHub Stats**
+<table>
+<tr>
+
+<td width="50%">
+
+## ☀️ SunCart
+
+A modern Summer Essentials eCommerce Platform with authentication, product management, and secure checkout.
+
+### Tech Stack
+- Next.js
+- MongoDB
+- Firebase
+- Tailwind CSS
+- DaisyUI
+
+🔗 **Live Demo:** https://suncart-next.vercel.app/
+
+📂 **GitHub:** https://github.com/sajibmh-2026/B13-A08-SunCart-Summer-Essentials-Store
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sajibmh-2026&repo=YOUR_SUNCART_REPO&theme=github_dark&hide_border=true"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🏡 Nestify
+
+A modern property booking / rental platform with authentication and responsive dashboard.
+
+### Tech Stack
+- React
+- Express.js
+- MongoDB
+- Firebase
+- Tailwind CSS
+
+🔗 **Live Demo:** https://nestify-client-zeta.vercel.app/
+
+📂 **GitHub:**  https://github.com/sajibmh-2026/B13-A10-nestify2-frontend
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sajibmh-2026&repo=YOUR_NESTIFY_REPO&theme=github_dark&hide_border=true"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🌱 2026 Goals
+
+- ✅ Become a Professional Full Stack Developer
+- ✅ Master Next.js & TypeScript
+- ✅ Learn PostgreSQL & Prisma
+- ✅ Contribute to Open Source
+- ✅ Build Production Ready Applications
+- ✅ Start Freelancing
+- ✅ Land a Remote Developer Job
+
+---
+# 🤝 Connect With Me
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
 
-<img src="https://github-readme-stats-tau-three-81.vercel.app/api?username=sajibmh-2026
-&show_icons=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&border_color=30363D" height="170px"/>
+<a href="https://github.com/sajibmh-2026">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://github-readme-stats-tau-three-81.vercel.app/api/top-langs/?username=sajibmh-2026
-&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&border_color=30363D" height="170px"/>
-<br/>
+<a href="https://www.linkedin.com/in/sajibmh">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://streak-stats.demolab.com?user=sajibmh-2026
-&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&stroke=30363D" width="65%"/>
+<a href="mailto:sojibmh862@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<!-- Portfolio Link (Uncomment after adding your portfolio)
+<a href="https://your-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+-->
 
 </div>
 
-<br/>
+---
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/>&nbsp;**Trophies**
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+# 💬 Developer Quote
 
 <div align="center">
-<img src="https://github-profile-trophy-jet-zeta.vercel.app/?username=sajibmh-2026
-&theme=darkhub&no-frame=true&no-bg=true" width="100%"/>
+
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
+
+<br>
+
+> **"Consistency beats intensity."**  
+> — MH Sajib
+
 </div>
 
-<br/>
+---
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/>&nbsp;**Activity Graph**
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+# 📈 Profile Views
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajibmh-2026&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true&area=true&area_color=58A6FF15" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=sajibmh-2026&style=for-the-badge&color=blueviolet"/>
+
 </div>
 
-<br/>
+---
+
+# 🐍 Contribution Snake
+
+```text
+github-contribution-grid-snake.svg
+```
 
 ---
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║   "Consistency is the key to mastery."                   ║
-║                                          — Mh Sajib        ║
-╚══════════════════════════════════════════════════════════╝
-```
+## ⭐ Thanks for visiting my profile!
 
-<img src="https://img.shields.io/badge/Thanks%20for%20visiting!-0d1117?style=for-the-badge&logoColor=58A6FF"/>
+If you like my work, consider giving a ⭐ to my repositories.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Happy+Coding!;See+you+again!"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58A6FF,100:0d1117&height=120&section=footer"/>
 
 </div>
+
+
+
+
