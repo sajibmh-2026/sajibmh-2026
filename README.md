@@ -222,7 +222,7 @@ philosophy:
 </div>
 
 ---
-# 🚀 Featured Projects
+# Featured Projects
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -389,16 +389,6 @@ A modern property booking / rental platform with authentication and responsive d
 <img src="https://komarev.com/ghpvc/?username=sajibmh-2026&style=for-the-badge&color=blueviolet"/>
 
 </div>
-
----
-
-# 🐍 Contribution Snake
-
-```text
-github-contribution-grid-snake.svg
-```
-
----
 
 <div align="center">
 
