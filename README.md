@@ -191,7 +191,7 @@ philosophy:
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=sajibmh-2026&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
+<img width="100%" src="https://github-profile-trophy-jet-zeta.vercel.app/?username=sajibmh-2026&theme=darkhub&no-frame=true&no-bg=true"/>
 
 </div>
 
